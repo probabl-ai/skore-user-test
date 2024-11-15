@@ -3,8 +3,9 @@ Template of user testing
 
 ## Create environement
 
-1. Create a virtual environment with your usual method (conda, virtualenv...), with a python >= 3.9.
-2. Install the libraries in requirements.txt with `pip install -r requirements.txt`.
+1. Git clone this repo locally
+2. Create a virtual environment with your usual method (conda, virtualenv...), with a python >= 3.9.
+3. Install the libraries in requirements.txt with `pip install -r requirements.txt`.
 
 ## Goal
 
