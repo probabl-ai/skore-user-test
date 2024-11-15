@@ -4,3 +4,4 @@ skore
 numpy
 ipykernel
 matplotlib
+nbformat
