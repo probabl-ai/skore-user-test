@@ -8,7 +8,7 @@ This repository serves as the template for a user interview about [skore](https:
 
 This library is developped by the product team of [Probabl](https://probabl.ai/), the official brand operator of scikit-learn. More information about Probabl: [Notion page](https://rhinestone-nigella-aee.notion.site/Get-to-know-Probabl-1318cad47543801cb167f505e1be2b7a).
 
-In this user test, a Probablr conducts an interview of a data science practitioner about skore, essentially to get some feedback. The interviewee does not need to look at skore before the actual meeting, as the goal is to get kind raw feedback such as:
+In this user test, a Probablr conducts an interview of a data science practitioner about skore, essentially to get some feedback. The interviewee does not need to look at skore before the actual meeting, as the goal is to get raw feedback such as:
 - Is the documentation clear enough?
 - Does the interviewee have a use case for such a product? How could Probabl improve skore to make it more useful for its use cases?
 
