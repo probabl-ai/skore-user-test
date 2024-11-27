@@ -4,7 +4,7 @@
 
 This repository is here to help you test and provide feedback on [skore](https://github.com/probabl-ai/skore), a new Python library that aims to enhance scikit-learn for data scientists.
 
-Skore is developed by the product team at [Probabl](https://probabl.ai/), the official brand operator of scikit-learn. For more info, check us out: [Notion page](https://rhinestone-nigella-aee.notion.site/Get-to-know-Probabl-1318cad47543801cb167f505e1be2b7a).
+Skore is developed by the product team at [Probabl](https://probabl.ai/), a scikit-learn company. For more info, check us out: [Notion page](https://rhinestone-nigella-aee.notion.site/Get-to-know-Probabl-1318cad47543801cb167f505e1be2b7a).
 
 
 ## Agenda
