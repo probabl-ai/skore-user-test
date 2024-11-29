@@ -50,6 +50,7 @@ Here are some topics on which we would appreciate your feedback:
     - Missing features?
     - Onboarding improvements?
     - Would you use skore in your day-to-day work?
+    - Would you recommend skore to a colleague?
 
 You can share your feedback:
 - either by mail directly to the [Product Team](mailto:product-feedback@signal.probabl.ai),
