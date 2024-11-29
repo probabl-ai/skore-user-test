@@ -3,6 +3,7 @@
 ## Intro
 
 This repository is here to help you test and provide feedback on [skore](https://github.com/probabl-ai/skore), a new Python library that aims to enhance scikit-learn for data scientists.
+skore is currently a work-in-progress, and more features are to be expected.
 
 Skore is developed by the product team at [Probabl](https://probabl.ai/), a scikit-learn company. For more info, check us out: [Notion page](https://probabl.notion.site/Get-to-know-Probabl-127ef76d36b9804d8ca8e264e42f0cee).
 
@@ -20,7 +21,7 @@ In total, this test drive should last under an hour.
 
 1. Clone this GitHub repository locally.
 1. Create a Python virtual environment with your usual method (conda, virtualenv...), with `python>=3.9`.
-1. Install the libraries in `requirements.txt` with:
+1. Install the libraries in `requirements.txt` with (activate your venv beforehand):
    ```bash
    pip install -r requirements.txt
    ```
@@ -33,9 +34,9 @@ Resources:
 - Notebook: `compare_models.ipynb`
 - [Skore documentation](https://probabl-ai.github.io/skore/latest/index.html)
 
-### How to make your feedback?
+### Your feedback
 
-Let us know what you think!
+Let us know what you think of skore!
 Here are some topics on which we would appreciate your feedback:
 
 1. Overall experience
@@ -49,11 +50,10 @@ Here are some topics on which we would appreciate your feedback:
 1. Suggestions
     - Missing features?
     - Onboarding improvements?
-    - Would you use skore in your day-to-day work?
-    - Would you recommend skore to a colleague?
+    - Would you use skore in your day-to-day work? Would you recommend skore to a colleague?
 
 You can share your feedback:
-- either by mail directly to the [Product Team](mailto:product-feedback@signal.probabl.ai),
+- either directly by mail to the [Product Team](mailto:product-feedback@signal.probabl.ai),
 - or on the `#skore` channel of our [Discord server](http://discord.probabl.ai).
 
 ## How to help?
