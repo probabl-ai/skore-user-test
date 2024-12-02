@@ -32,7 +32,7 @@ The goal is to build a couple of models, and to compare them, using [skore](http
 
 Resources:
 - Notebook: `compare_models.ipynb`
-- [Skore documentation](https://probabl-ai.github.io/skore/latest/index.html)
+- [Skore documentation](https://skore.probabl.ai)
 
 ### Your feedback
 
