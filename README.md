@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+    <img width="200" src="https://media.githubusercontent.com/media/probabl-ai/skore/main/sphinx/_static/images/Logo_Skore_Light@2x.svg" alt="skore logo">
+</div>
+
 # Take skore for a test drive!
 
 ## Intro
