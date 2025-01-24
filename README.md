@@ -33,6 +33,11 @@ In total, this test drive should last under an hour.
    pip install -r requirements.txt
    ```
 
+If you did not follow these steps and just did `pip install -U skore`, please run:
+```python
+import skore; skore.show_versions()
+```
+
 ### Goal of the test
 
 The goal is to build a couple of models, and to compare them, using [skore](https://github.com/probabl-ai/skore) when relevant.
