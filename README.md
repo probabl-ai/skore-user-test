@@ -21,7 +21,7 @@ In total, this test drive should last under an hour.
 1. Presentation of Probabl and skore: ~5 min
 1. Environment setup: ~5 min
 1. User testing tasks: ~35 min
-    - Here is a notebook to get you started: `compare_models.ipynb`.
+    - Here is a notebook to get you started: `estimator_report.ipynb` or `compare_models.ipynb`.
 1. Feedback Q&A: ~15 min
 
 ### Set-up: create your virtual environment
@@ -43,7 +43,7 @@ import skore; skore.show_versions()
 The goal is to build a couple of models, and to compare them, using [skore](https://github.com/probabl-ai/skore) when relevant.
 
 Resources:
-- Notebook: `compare_models.ipynb`
+- Notebook: `estimator_report.ipynb` or `compare_models.ipynb`
 - [Skore documentation](https://skore.probabl.ai)
 
 ### Your feedback
