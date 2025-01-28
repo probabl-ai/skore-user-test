@@ -186,3 +186,6 @@ examples/plot_*.png
 
 # Include excluded directories from github-actions
 !/.github/**/build/
+
+# Linter
+format.sh
